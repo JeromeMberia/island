@@ -11,8 +11,7 @@ h2{
 }
 body{ 
   background-color: rgba(0, 0, 0, 0.87);
-  background-image: url(/images/44770448402_110f0c1d18_b.jpg)
-  ;
+  background-image: url(./images/44770448402_110f0c1d18_b.jpg);
   background-size: cover;
 }
 
